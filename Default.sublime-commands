@@ -1,9 +1,9 @@
 [
     {
-        "caption": "Preferences: IncrementDecrement Key Bindings – Default",
+        "caption": "Preferences: Increment-Decrement-Selection Key Bindings – Default",
         "command": "open_file",
         "args": {
-            "file": "${packages}/IncrementDecrement/Default (Linux).sublime-keymap",
+            "file": "${packages}/Increment-Decrement-Selection/Default (Linux).sublime-keymap",
             "platform": "Linux"
         }
     },

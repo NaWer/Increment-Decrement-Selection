@@ -12,13 +12,13 @@
                 "children":
                 [
                     {
-                        "caption": "IncrementDecrement",
+                        "caption": "Increment-Decrement-Selection",
                         "children":
                         [
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/IncrementDecrement/Default (Linux).sublime-keymap",
+                                    "file": "${packages}/Increment-Decrement-Selection/Default (Linux).sublime-keymap",
                                     "platform": "Linux"
                                 },
                                 "caption": "Key Bindings – Default"
