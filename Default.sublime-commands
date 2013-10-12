@@ -1,0 +1,16 @@
+[
+    {
+        "caption": "Preferences: IncrementDecrement Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/IncrementDecrement/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    },
+    {   "caption": "Increment",
+        "command": "Increment"
+    },
+    {   "caption": "Decrement",
+        "command": "Decrement"
+    }
+]
