@@ -15,7 +15,7 @@ Very simple plugin to increment and decrement selection in SublimeText 3
 
 ## About
 * [Erwan](http://erwan.me)
-* [License](LICENSE)
+* [Public Domain](UNLICENSE)
 
 
 
